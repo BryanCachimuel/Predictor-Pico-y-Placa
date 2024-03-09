@@ -19,9 +19,10 @@ const ListarVerificado = () => {
 
   return (
     <div className='container'>
+
       <div className='row'>
         <div className='col'>
-            <Link to="/crear" className='btn btn-primary mt-2 mb-2'> <i className="fa-solid fa-circle-plus"></i> Verificar</Link>
+            <Link to="/crear" className='btn btn-primary mt-2 mb-2'> <i className="fa-solid fa-circle-plus"></i> Verificar Pico y Placa</Link>
             <table className='table'>
                 <thead className='table-primary'>
                     <tr>
